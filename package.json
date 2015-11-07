@@ -1,6 +1,6 @@
 {
   "name": "react-router-relay",
-  "version": "0.8.0",
+  "version": "0.8.0-even.1",
   "description": "Nested react-router routes for Relay",
   "files": [
     "lib",
@@ -32,11 +32,6 @@
     "babel-runtime": "5.x",
     "invariant": "^2.1.2",
     "react-static-container": "^1.0.0"
-  },
-  "peerDependencies": {
-    "react": "^0.14.2",
-    "react-relay": ">=0.4.0",
-    "react-router": "^1.0.0"
   },
   "devDependencies": {
     "babel": "5.x",
